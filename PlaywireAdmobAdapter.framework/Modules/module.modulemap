@@ -1,0 +1,6 @@
+framework module PlaywireAdmobAdapter {
+  umbrella header "PlaywireAdmobAdapter.h"
+
+  export *
+  module * { export * }
+}
